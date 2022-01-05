@@ -1,0 +1,51 @@
+
+@font-face {
+    font-family: "QwitcherGrypen";
+    src: url(font/QwitcherGrypen-Regular.ttf);
+}
+.navbar{
+    background-color: burlywood !important;
+}
+.container-fluid .navbar-brand{
+    font-family: "QwitcherGrypen";
+    font-size: 32px;
+}
+.carousel-inner img{
+    width: 100%;
+}
+.welcome h1{
+    margin: 2rem 0px !important;
+}
+.welcome hr{
+    margin: 1rem 2rem !important;
+    width: 95%;
+}
+.social a{
+    font-size: 3em;
+    padding: 3rem;
+}
+.fa-instagram{
+    color: coral;
+}
+.fa-youtube{
+    color: darkred;
+}
+#footer{
+    background-color: darksalmon;
+    margin-top: 2rem;
+}
+#footer a,
+#footer p{
+    color: #000;
+    text-decoration: none;
+}
+#footer a:hover{
+    color: darkslateblue;
+}
+.coppywrite{
+    background-color: #000;
+}
+.coppywrite p{
+    color: #fff !important;
+    margin: 0px;
+}
